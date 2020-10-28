@@ -37,7 +37,7 @@ ul {
 
 i {
    color:rgba(121, 4, 178, 0.85);
-   font-size:3px;
+   font-size:35px;
    width:50px;
    margin:0px 10px;
 }
@@ -46,11 +46,12 @@ i:hover{
  color: rgba(98, 36, 191, 1);
 }
 
-img{
+.profile-picture{
   width: 200px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.13);
 }
 
  .button a {
