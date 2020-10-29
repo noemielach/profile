@@ -87,6 +87,13 @@ img{
   .container {
     width: 300px;
   }
+  .button a {
+    font-size: 15px
+  }
+  img{
+  width: 100px;
+  height: 100px;
+  }
 }
 
 @media (max-width: 540px) {
