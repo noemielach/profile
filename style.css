@@ -46,7 +46,7 @@ i:hover{
  color: rgba(98, 36, 191, 1);
 }
 
-.profile-picture{
+img{
   width: 200px;
   height: 200px;
   border-radius: 50%;
