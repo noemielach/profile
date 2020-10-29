@@ -82,7 +82,7 @@ img{
   text-align: center;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 760px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
